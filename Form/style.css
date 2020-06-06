@@ -1,0 +1,31 @@
+img{
+    padding-left: 11cm;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform:uppercase;
+    color:rgb(50, 50, 125);
+}
+div{
+    background-color:rgb(50, 50, 125);
+    color: whitesmoke;
+    margin: 1cm;
+}
+.name{
+   padding-left: 3cm;
+}
+.noborder{
+    text-align: center;
+    border: none;
+}
+#add{
+    padding-right: 75px;
+    padding-bottom: 50px;
+}
+#course{
+    padding-left: 3.5cm;
+}
+#button{
+   margin-left: 12cm;
+}
